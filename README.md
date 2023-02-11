@@ -1,7 +1,7 @@
 # **Horario-do-dia**
-    ***
-    * manhã
-    * tarde
-    * noite 
-    * madrugada
-    ***
+___ 
+* manhã
+* tarde
+* noite 
+* madrugada
+***
