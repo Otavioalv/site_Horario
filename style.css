@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+body{
+    background-color: #ffffff;
+    font-family:'Segoe UI', sans-serif;
+}
+
+/* cantraliza todo o corpo do site */
+div#central{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    /* background-color: #000000; */
+    height: 50%;
+    width: 75vh; 
+    margin: auto;
+    transform: translate(-50%, -50%);
+}
+
+div#central h1{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 30px;
+    color: #ffffff;
+    font-size: 6vh;
+    margin: auto;
+    margin-bottom: 4vh;
+}
+
+div#central h2{
+    text-align: center;
+    color: #ffffff;
+    font-size: 2.5vh;
+    margin: auto;
+    margin-top: 3vh;
+}
+
+/* tabela onde mostra horario */
+div#tabela{
+    position: relative;
+    right: 2.5vh;
+    background-color: #ffffff;
+    box-shadow: 2px 5px 30px 1px #000000;
+    text-align: center;
+    /* height: 400px;
+    width: 510pt; */
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    /*  */
+    border-radius: 2.5vh;
+    padding: 3vh;
+}
+
+div#tabela img{
+    /* height: 300px;
+    width: 300px;  */
+    height: 80%;
+    width: 40vh; 
+    /*  */
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 3vh;
+}
+
+div#tabela h2{
+    color: #303030;
+    font-size: 3vh;
+    margin: auto;
+}
